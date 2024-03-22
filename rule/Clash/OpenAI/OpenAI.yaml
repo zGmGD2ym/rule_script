@@ -1,0 +1,29 @@
+# NAME: OpenAI
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-04-07 14:52:57
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 3
+# TOTAL: 6
+payload:
+  - DOMAIN,stripecdn.com
+  - DOMAIN,azureedge.net
+  - DOMAIN,intercom.io
+  - DOMAIN,stripe.com
+  - DOMAIN,intercomcdn.com
+  - DOMAIN,stripe.network
+  - DOMAIN,stripe.com
+  - DOMAIN,cdn.auth0.com
+  - DOMAIN,challenges.cloudflare.com
+  - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,stripecdn.com
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,identrust.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,stripe.network
+  - DOMAIN-SUFFIX,stripe.com
+
