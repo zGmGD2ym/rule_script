@@ -6,6 +6,10 @@
 # DOMAIN-SUFFIX: 3
 # TOTAL: 6
 payload:
+  - DOMAIN,ab.chatgpt.com
+  - DOMAIN,chatgpt.com
+  - DOMAIN,cdn.oaistatic.com
+  - DOMAIN,oaistatic.com
   - DOMAIN,stripecdn.com
   - DOMAIN,azureedge.net
   - DOMAIN,intercom.io
@@ -16,6 +20,10 @@ payload:
   - DOMAIN,cdn.auth0.com
   - DOMAIN,challenges.cloudflare.com
   - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,ab.chatgpt.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,cdn.oaistatic.com
+  - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,stripecdn.com
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,identrust.com
